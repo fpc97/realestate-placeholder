@@ -1,0 +1,6 @@
+[submodule "realestate-front"]
+	path = realestate-front
+	url = https://github.com/fpc97/realestate-front
+[submodule "realestate-api"]
+	path = realestate-api
+	url = https://github.com/fpc97/realestate-api
